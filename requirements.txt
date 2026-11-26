@@ -1,0 +1,4 @@
+pillow
+imageio-ffmpeg
+# ドラッグ&ドロップを使うとき(なくてもアプリは動きます)
+tkinterdnd2
